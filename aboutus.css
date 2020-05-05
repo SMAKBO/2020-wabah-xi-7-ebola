@@ -1,31 +1,37 @@
 header {text-align: center;border: 1px solid #000; font-size: 50px; background-color: brown}
-img{width: 250px;
-height:250px;
-margin: 20px 20px}
+img{width: 300px;
+height:300px;
+margin: 20px 20px 0px 40px}
 h5{color: "red"}
-#head{ height:620px;width: 350px; border: 1px solid black;margin:5px 0 5px 35%}
+#head{ height:900px;width: auto; border: 1px solid black;margin:5px 0 5px 0}
 
 #Diaz
- {border: 1px solid black;width:auto; height: auto;
- 	background-color: #000;color: red; margin:20px 10px 20px 20px; background-position: 300px 0 0 0  }
-#Atas{ height:620px;width: auto; border: 1px solid black;margin:5px 0 5px 0;}
+{border: 1px solid black;width:30%; height: auto;
+ 	background-color: #000;color: red; margin:20px 0px 0px 35%; float: left;}
+#Atas{ height:900px;width: auto; border: 1px solid black;margin:0px 0 5px 0;}
 
-#Andi {border: 1px solid black;width:32%; height: auto;
- 	background-color: #000;color: red; margin:20px 0px 0px 20px; float: left;}
+#Andi {border: 1px solid black;width:30%; height: auto;
+ 	background-color: black;color: red; margin:20px 0px 0px 20px; float: left;}
+
 #Yazid
-{border: 1px solid black;width:32%; height: auto;
- 	background-color: #000;color: red; margin:20px 0px 0px 20px; float: left;}
-#Bawah{ height:620px;width: auto; border: 1px solid black;margin:5px 0 5px 0;}
+{border: 1px solid black;width:30%; height: auto;
+ 	background-color: black;color: red; margin:20px 0px 0px 20px; float: left;}
 #Maul
-{float: left; border: 1px solid black;width:30%; height: auto;
- 	background-color: #000;color: red; margin:20px 0px 0px 20px;}
+{ border: 1px solid black;width:30%; height: auto;
+ 	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
+#Bawah{ height:900px;width: auto; border: 1px solid black;margin:0px 0 5px 0;}
 #Aril
-{float: left;border: 1px solid black;width:32%; height: 90%;
- 	background-color: #000;color: red; margin:20px 0px 0px 20px;}
+{border: 1px solid black;width:30%; height: 90%;
+ 	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
 #Shafira
-{float: left;border: 1px solid black;width:32%; height: 90%;
- 	background-color: #000;color: red; margin:20px 0px 0px 20px;}
-#Cino{float: left;border: 1px solid black;width:30%; height: 90%;
- 	background-color: #000;color: red; margin:20px 0px 0px 20px;}
- footer {text-align: left;border: 1px solid #000; background-color: brown}
+{border: 1px solid black;width:32%; height: 90%;
+ 	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
+#Cino{border: 1px solid black;width:30%; height: 90%;
+ 	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
+ footer {text-align: left;border: 1px solid #000; background-color: brown;margin: 900px}
  #footer{text-align: center;border: 1px solid #000; font-size: 20px; background-color:grey }
+ ul li{text-align:left;}
+
+
+
+
