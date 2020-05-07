@@ -1,8 +1,10 @@
 header {text-align: center;border: 1px solid #000; font-size: 50px; background-color: brown}
 img{width: 250px;
 height: 250px;
-margin: 0px 20px 0px 60px}
+margin: 10px 20px 0px 60px}
 h5{color: "red"}
+header{margin-top: 45px}
+html{background-color: cyan}
 #head{ height:auto;width: auto;margin:5px 0 5px 0}
 
 #Diaz
@@ -21,12 +23,12 @@ h5{color: "red"}
  	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
 #Bawah{ height:900px;width: auto;margin:0px 0 5px 0;}
 #Aril
-{border: 1px solid black;width:30%; height: 90%;
+{border: 1px solid black;width:30%; height: 80%;
  	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
 #Shafira
-{border: 1px solid black;width:32%; height: 90%;
+{border: 1px solid black;width:32%; height: 80%;
  	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
-#Cino{border: 1px solid black;width:30%; height: 90%;
+#Cino{border: 1px solid black;width:30%; height: 80%;
  	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
  footer {text-align: left;border: 1px solid #000; background-color: brown;margin: 900px}
  #footer{text-align: center;border: 1px solid #000; font-size: 20px; background-color:grey }
