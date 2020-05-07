@@ -1,14 +1,14 @@
 header {text-align: center;border: 1px solid #000; font-size: 50px; background-color: brown}
 img{width: 250px;
 height: 250px;
-margin: 20px 20px 0px 70px}
+margin: 20px 20px 0px 50px}
 h5{color: "red"}
-#head{ height:900px;width: auto; border: 1px solid black;margin:5px 0 5px 0}
+#head{ height:900px;width: auto;margin:5px 0 5px 0}
 
 #Diaz
 {border: 1px solid black;width:30%; height: auto;
  	background-color: #000;color: red; margin:20px 0px 0px 35%;}
-#Atas{ height:900px;width: auto; border: 1px solid black;margin:0px 0 5px 0;}
+#Atas{ height:800px;width: auto; margin:0px 0 5px 0;}
 
 #Andi {border: 1px solid black;width:30%; height: auto;
  	background-color: black;color: red; margin:20px 0px 0px 20px; float: left;}
@@ -19,7 +19,7 @@ h5{color: "red"}
 #Maul
 { border: 1px solid black;width:30%; height: auto;
  	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
-#Bawah{ height:900px;width: auto; border: 1px solid black;margin:0px 0 5px 0;}
+#Bawah{ height:900px;width: auto;margin:0px 0 5px 0;}
 #Aril
 {border: 1px solid black;width:30%; height: 90%;
  	background-color: #000;color: red; margin:20px 0px 0px 20px;float: left;}
